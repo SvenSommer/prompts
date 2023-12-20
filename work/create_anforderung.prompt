@@ -1,0 +1,11 @@
+Bitte formuliere eine Anforderung basierend auf der untenstehenden textlichen Beschreibung. 
+Verwende eine Platzhalter "[Afo-id]", gefolgt von einem Titel für die Anforderung.  
+Der Teil '<Afo-ID> - <Titel der Afo>' sollte fett hervorgehoben werden. 
+Beginne jede Anforderung mit der Identität der für die Umsetzung verantwortlichen Person oder Einheit, 
+gefolgt von einem der Schlüsselworte MUSS, DARF NICHT, SOLL, SOLL NICHT, KANN, gemäß der Vorgaben von RFC 2119 [RFC2119], diese Signalwörter sollen in Großbuchstaben geschrieben sein. 
+Beschreibe knapp und präzise welche Anforderung gestellt werden.
+Beende den Text der Anforderung mit der Textmarke [<=].
+Hinweise, die zusätzliche Informationen bieten, können nach der Textmarke [<=] und zwei Zeilenumbrüchen eingefügt werden, sollen aber sehr sparsam verwendet werden und sind nur optional. Sie sollten keine Anforderungsinhalte wiederholen und dienen ausschließlich als ergänzende Information. 
+Formatierung der Anforderung: '<Afo-ID> - <Titel der Afo> Text / \n\n[WER][SCHLÜSSELWORT][WAS]\n[<=]\n\n[optionale HINWEISE]'.
+Textliche Beschreibung:{selected_text}
+
